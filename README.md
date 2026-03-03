@@ -17,7 +17,7 @@
 
 ## Latest Blog Posts
 
-- [被损耗掉的心力](https://rickgwei.com/index.php/archives/17/)
-- [数字水印技术简介](https://rickgwei.com/index.php/archives/16/)
-- [过去一年的想法](https://rickgwei.com/index.php/archives/15/)
-- [心盲症的思考方式](https://rickgwei.com/index.php/archives/11/)
+- [被损耗掉的心力](https://rickgwei.com/posts/mental-energy-drain/)
+- [数字水印技术简介](https://rickgwei.com/posts/digital-watermark-intro/)
+- [过去一年的想法](https://rickgwei.com/posts/past-year-thoughts/)
+- [心盲症的思考方式](https://rickgwei.com/posts/aphantasia-thinking/)
