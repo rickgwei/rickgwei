@@ -5,7 +5,7 @@
 ## Current Projects
 
 - [WHV Explore](https://www.whvexplore.com) - An Australia Working-Holiday-Visa stamps collect tool.
-- [FeedCtrl](https://chromewebstore.google.com/detail/feedctrl/icfgkalcnopfgbmmlamnflnhbjlhkcke) - Increasing your daily SNR.
+- [FeedCtrl](https://feedctrl.com/) - Increasing your daily SNR.
 
 ## Latest Blog Posts
 
