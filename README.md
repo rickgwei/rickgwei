@@ -1,6 +1,6 @@
 # Hi, I'm Rick 👋
 
-> A product engineer building some interesting things for people.
+> Rick is a product engineer building some interesting things for people.
 
 ## Current Projects
 
