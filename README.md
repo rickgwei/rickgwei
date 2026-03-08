@@ -9,6 +9,7 @@
 
 ## Latest Blog Posts
 
+- [优先考虑生命的质量](https://f7e822e6.blog-c7a.pages.dev/posts/prioritize-quality-of-life/)
 - [被损耗掉的心力](https://rickgwei.com/posts/mental-energy-drain/)
 - [数字水印技术简介](https://rickgwei.com/posts/digital-watermark-intro/)
 - [过去一年的想法](https://rickgwei.com/posts/past-year-thoughts/)
