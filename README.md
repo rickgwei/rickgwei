@@ -21,4 +21,4 @@
 
 ## Resume
 
-[English](https://cdn.jsdelivr.net/gh/rickgwei/rickgwei@main/cv/en.pdf) | [简体中文](https://cdn.jsdelivr.net/gh/rickgwei/rickgwei@main/cv/zh-CN.pdf)
+[English](https://cdn.jsdelivr.net/gh/rickgwei/rickgwei@main/cv/en.pdf)
