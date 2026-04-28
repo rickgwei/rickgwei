@@ -1,7 +1,5 @@
 # Hi, I'm Rick 👋
 
-> Product & security engineer building tools for data protection — and the occasional side project for people.
-
 ## About
 
 Rick is a developer currently based in Beijing.
