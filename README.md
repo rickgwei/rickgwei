@@ -4,9 +4,11 @@
 
 ## About
 
-- Software Engineer at ByteDance, leading forensic watermarking R&D and shift-left security.
-- Previously ML Engineer at JD.com, working on digital watermarking, UEBA, and data classification & grading.
-- Based in Beijing.
+Rick is a developer currently based in Beijing.
+
+**Languages:**
+- Chinese: Native
+- English: CEFR B2
 
 ## Current Projects
 
@@ -27,4 +29,4 @@
 
 ## Resume
 
-[English CV (PDF)](https://cdn.jsdelivr.net/gh/rickgwei/rickgwei@main/cv/en.pdf)
+[en.pdf](https://cdn.jsdelivr.net/gh/rickgwei/rickgwei@main/cv/en.pdf)
