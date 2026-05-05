@@ -1,0 +1,81 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+  push:
+    paths:
+      - .github/workflows/update-blog-posts.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch RSS and rewrite README
+        env:
+          FEED_URL: https://rickgwei.com/en/index.xml
+          MAX_POSTS: '5'
+        run: |
+          python3 - <<'PY'
+          import html, os, re, sys, urllib.request
+          import xml.etree.ElementTree as ET
+
+          feed_url = os.environ['FEED_URL']
+          max_posts = int(os.environ['MAX_POSTS'])
+
+          req = urllib.request.Request(feed_url, headers={'User-Agent': 'rickgwei-profile-sync'})
+          with urllib.request.urlopen(req, timeout=30) as r:
+              xml = r.read()
+
+          root = ET.fromstring(xml)
+          items = root.findall('./channel/item')[:max_posts]
+          if not items:
+              sys.exit('No items found in RSS feed')
+
+          lines = []
+          for it in items:
+              title = html.unescape((it.findtext('title') or '').strip())
+              link = (it.findtext('link') or '').strip()
+              if not title or not link:
+                  continue
+              lines.append(f'- [{title}]({link})')
+
+          block = '\n'.join(lines)
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              readme = f.read()
+
+          pattern = re.compile(
+              r'(<!-- BLOG-POSTS:START -->)(.*?)(<!-- BLOG-POSTS:END -->)',
+              re.DOTALL,
+          )
+          if not pattern.search(readme):
+              sys.exit('README markers BLOG-POSTS:START / END not found')
+
+          new_readme = pattern.sub(rf'\1\n{block}\n\3', readme)
+
+          if new_readme != readme:
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(new_readme)
+              print('README updated')
+          else:
+              print('README unchanged')
+          PY
+
+      - name: Commit & push if changed
+        run: |
+          if [[ -z "$(git status --porcelain README.md)" ]]; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync latest blog posts"
+          git push
