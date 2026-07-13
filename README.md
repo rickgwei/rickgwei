@@ -16,11 +16,11 @@ Rick is a developer currently based in Beijing.
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
-- [Addicted to Numbing the Pain](https://rickgwei.com/en/posts/addicted-to-painkillers/)
-- [Model Copyright Watermarking](https://rickgwei.com/en/posts/llm-copyright-watermarking/)
-- [The Evolution of Data Classification Algorithms](https://rickgwei.com/en/posts/data-classification-algorithm-evolution/)
-- [Prioritize the Quality of Life](https://rickgwei.com/en/posts/prioritize-quality-of-life/)
-- [The Mental Energy That Gets Drained Away](https://rickgwei.com/en/posts/mental-energy-drain/)
+- [沉迷止痛的上瘾](https://rickgwei.com/posts/addicted-to-painkillers/)
+- [模型版权水印技术](https://rickgwei.com/posts/llm-copyright-watermarking/)
+- [数据分类算法进化](https://rickgwei.com/posts/data-classification-algorithm-evolution/)
+- [优先考虑生命的质量](https://rickgwei.com/posts/prioritize-quality-of-life/)
+- [被损耗掉的心力](https://rickgwei.com/posts/mental-energy-drain/)
 <!-- BLOG-POSTS:END -->
 
 ## Connect
