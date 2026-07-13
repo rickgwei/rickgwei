@@ -4,7 +4,7 @@
 
 ## 自动化:博客文章自动同步
 
-`.github/workflows/update-blog-posts.yml` 每 6 小时 cron 运行:用 Python3 解析博客 RSS(`https://rickgwei.com/en/index.xml`),取最新 5 篇,替换 `README.md` 中 `<!-- BLOG-POSTS:START -->` 与 `<!-- BLOG-POSTS:END -->` 之间的内容,并自动提交 `chore: sync latest blog posts`。
+`.github/workflows/update-blog-posts.yml` 每 6 小时 cron 运行:用 Python3 解析中文博客 RSS(`https://rickgwei.com/index.xml`),取最新 5 篇,替换 `README.md` 中 `<!-- BLOG-POSTS:START -->` 与 `<!-- BLOG-POSTS:END -->` 之间的内容,并自动提交 `chore: sync latest blog posts`。
 
 ## 编辑约定
 

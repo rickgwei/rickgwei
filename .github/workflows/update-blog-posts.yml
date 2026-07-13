@@ -19,7 +19,7 @@ jobs:
 
       - name: Fetch RSS and rewrite README
         env:
-          FEED_URL: https://rickgwei.com/en/index.xml
+          FEED_URL: https://rickgwei.com/index.xml
           MAX_POSTS: '5'
         run: |
           python3 - <<'PY'

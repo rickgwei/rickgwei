@@ -25,4 +25,4 @@ Rick is a developer currently based in Beijing.
 
 ## Connect
 
-[Blog](https://rickgwei.com/en/) · [Twitter/X](https://x.com/rickgwei) · [LinkedIn](https://www.linkedin.com/in/rickgwei) · [Instagram](https://www.instagram.com/rickgwei/) · [Email](mailto:hi@rickgwei.com)
+[Blog](https://rickgwei.com/) · [Twitter/X](https://x.com/rickgwei) · [LinkedIn](https://www.linkedin.com/in/rickgwei) · [Instagram](https://www.instagram.com/rickgwei/) · [Email](mailto:hi@rickgwei.com)
