@@ -16,11 +16,11 @@ Rick is a developer currently based in Beijing.
 ## Latest Blog Posts
 
 <!-- BLOG-POSTS:START -->
+- [这三个月更新了什么](https://rickgwei.com/posts/three-month-update/)
 - [沉迷止痛的上瘾](https://rickgwei.com/posts/addicted-to-painkillers/)
 - [模型版权水印技术](https://rickgwei.com/posts/llm-copyright-watermarking/)
 - [数据分类算法进化](https://rickgwei.com/posts/data-classification-algorithm-evolution/)
 - [优先考虑生命的质量](https://rickgwei.com/posts/prioritize-quality-of-life/)
-- [被损耗掉的心力](https://rickgwei.com/posts/mental-energy-drain/)
 <!-- BLOG-POSTS:END -->
 
 ## Connect
