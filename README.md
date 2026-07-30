@@ -1,20 +1,11 @@
-# Hi, I'm Rick 👋
+Hi, I'm Rick Gwei, a programer building tools for myself and other people.
 
-## About
 
-Rick is a developer currently based in Beijing.
+<table width="1200px" cellspacing="0" cellpadding="0">
+<tr>
+<td width="600px" valign="top">
 
-**Languages:**
-- Chinese: Native
-- English: CEFR B2
-
-## Current Projects
-
-- [WHV Explore](https://www.whvexplore.com) — Visual filter for Australia Working-Holiday-Visa eligible regional areas.
-- [FeedCtrl](https://feedctrl.com/) — An aggregator that improves the signal-to-noise ratio of your information feeds.
-
-## Latest Blog Posts
-
+**Recent Posts**
 <!-- BLOG-POSTS:START -->
 - [这三个月更新了什么](https://rickgwei.com/posts/three-month-update/)
 - [沉迷止痛的上瘾](https://rickgwei.com/posts/addicted-to-painkillers/)
@@ -22,7 +13,17 @@ Rick is a developer currently based in Beijing.
 - [数据分类算法进化](https://rickgwei.com/posts/data-classification-algorithm-evolution/)
 - [优先考虑生命的质量](https://rickgwei.com/posts/prioritize-quality-of-life/)
 <!-- BLOG-POSTS:END -->
+</td>
+<td width="600px" valign="top">
 
-## Connect
+**Recent Projects**
+- [WHV Explore](https://www.whvexplore.com) — Visual filter for Australia Working-Holiday-Visa eligible regional areas.
+- [FeedCtrl](https://feedctrl.com/) — An aggregator that improves the signal-to-noise ratio of your information feeds.
+</td>
+</tr>
+</table>
 
-[Blog](https://rickgwei.com/) · [Twitter/X](https://x.com/rickgwei) · [LinkedIn](https://www.linkedin.com/in/rickgwei) · [Instagram](https://www.instagram.com/rickgwei/) · [Email](mailto:hi@rickgwei.com)
+
+**Connect**
+
+[Blog](https://rickgwei.com/) · [Twitter/X](https://x.com/rickgwei) · [LinkedIn](https://www.linkedin.com/in/rickgwei) · [Instagram](https://www.instagram.com/rickgwei/) · [Email](mailto:hi@rickgwei.com) 
