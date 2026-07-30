@@ -1,4 +1,4 @@
-Hi, I'm Rick Gwei, a programer building tools for myself and other people.
+👋 Hi, I'm `Rick Gwei`, a programer building tools for myself and other people.
 
 
 <table width="1200px" cellspacing="0" cellpadding="0">
@@ -23,7 +23,4 @@ Hi, I'm Rick Gwei, a programer building tools for myself and other people.
 </tr>
 </table>
 
-
-**Connect**
-
-[Blog](https://rickgwei.com/) · [Twitter/X](https://x.com/rickgwei) · [LinkedIn](https://www.linkedin.com/in/rickgwei) · [Instagram](https://www.instagram.com/rickgwei/) · [Email](mailto:hi@rickgwei.com) 
+[Blog](https://rickgwei.com/) · [Twitter/X](https://x.com/rickgwei) · [LinkedIn](https://www.linkedin.com/in/rickgwei) · [Instagram](https://www.instagram.com/rickgwei/) · [Strava](https://strava.app.link/kmAcFt3eK4b) · [Email](mailto:hi@rickgwei.com) 
